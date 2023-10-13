@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.first-section {
+    display: flex;
+    flex-direction: row;
+    gap: 3em;
+}
+
+.second-section {
+    display: flex;
+    flex-direction: row;
+}
+
+.third-section {
+    display: flex;
+    flex-direction: row;
+}
+
+.fourth-section {
+    display: flex;
+    flex-direction: row;
+}
+
+.fifth-section {
+    display: flex;
+    flex-direction: row;
+}
